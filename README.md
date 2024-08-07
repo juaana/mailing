@@ -1,2 +1,3 @@
 # Mailing
-![Untitled (1)](https://github.com/user-attachments/assets/18593e48-e394-46f3-82a9-2ae542c51a6a)
+
+![Untitled (2)](https://github.com/user-attachments/assets/9633616b-1c28-4181-ad92-4da96d903431)
