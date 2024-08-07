@@ -1,2 +1,2 @@
 # Mailing
-<iframe width="560" height="315" src='https://dbdiagram.io/e/66b2cd168b4bb5230e6a7ca3/66b2d8b38b4bb5230e6b41e0'> </iframe>
+![Untitled (1)](https://github.com/user-attachments/assets/18593e48-e394-46f3-82a9-2ae542c51a6a)
